@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink><name>My-Track Online</name><Link>
+<href>http://s1mytrack.ddns.net:86/xmlGps/Races/1556bd7d-8e72-426b-a305-8046d570ef9f.kml</href>
+<refreshMode>onInterval</refreshMode><refreshInterval>15</refreshInterval></Link></NetworkLink>
+</kml>
